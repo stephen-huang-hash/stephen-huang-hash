@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<h3 align="left">I am currently pursuing my B.A. in Computer Science from Columbia University. I love to compete at hackathons, watch movies at the theater, and am an avid New York Knicks fan. </h3>
+<h4 align="left">I am currently pursuing my B.A. in Computer Science from Columbia University. I love to compete at hackathons, watch movies at the theater, and am an avid New York Knicks fan. </h3>
 <h3 align="center">My Statistics:</h3>
 <p align="center">
 <table align="center">
