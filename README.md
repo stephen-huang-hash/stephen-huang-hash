@@ -1,4 +1,4 @@
-<p align="center"><picture align="center"><img align="center" src="/logo.png" width=50px></picture></p>
+<p align="center"><picture align="center"><img align="center" src="/logo.png" width=100px></picture></p>
 <h1 align="center">Hi, I'm Stephen Huang</h1>
 <h3 align="center">Software Engineer | Creating meaningful experiences</h3>
 <div id="badges">
