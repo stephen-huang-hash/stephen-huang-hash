@@ -1,27 +1,39 @@
-<div align="center">
+# Stephen Huang
 
-# stephen huang
+Software engineer studying CS at Columbia.
 
-software engineer  
-cs @ columbia
+[![Website](https://img.shields.io/badge/website-stephen--huang.com-black?style=flat-square)](https://stephen-huang.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-stephen--huang--dev-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/stephen-huang-dev)
+[![Email](https://img.shields.io/badge/email-sh4545%40columbia.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sh4545@columbia.edu)
 
-<br>
+---
 
-### work
+## Experience
 
-**spacex** · build & flight reliability  
-**stoke space** · manufacturing platform, rbac, infrastructure  
-**shared studios** · voice interfaces, offline telepresence  
-**pupil** · landing page, ux
+| Company | Role | Focus |
+|---------|------|-------|
+| **SpaceX** | Software Engineer Intern | Backend systems, data migrations, observability |
+| **Stoke Space** | Software Engineer Intern | RBAC, ERP integrations, AI pipelines, AWS GovCloud |
+| **Shared Studios** | Software Engineer Intern | Voice interfaces, motion detection, telepresence |
 
-<br>
+---
 
-### currently
+## Tech Stack
 
-learning c++  
+**Languages**  
+`TypeScript` `JavaScript` `C` `C#` `C++` `Java` `Python` `SQL` `Lua` `Bash`
 
-<br>
+**Frameworks & Libraries**  
+`React` `Next.js` `.NET` `GraphQL` `Prisma` `Node.js` `Express` `Electron` `PostgreSQL` `MongoDB` `PyTorch` `TensorFlow` `Tailwind` `Playwright`
 
-[website](https://stephenhuang.dev) · [email](mailto:sh4545@columbia.edu) · [linkedin](https://linkedin.com/in/stephen-huang-dev)
+**Tools & Platforms**  
+`AWS` `Pulumi` `Docker` `Temporal` `Vercel` `Datadog` `Git` `Figma`
 
-</div>
+---
+
+## Currently
+
+Learning C++
+
+---
+
