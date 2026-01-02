@@ -35,5 +35,3 @@ Software engineer studying CS at Columbia.
 
 Learning C++
 
----
-
