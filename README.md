@@ -12,7 +12,7 @@ Software engineer studying CS at Columbia.
 
 | Company | Role | Focus |
 |---------|------|-------|
-| **SpaceX** | Software Engineer Intern | Backend systems, data migrations, observability |
+| **SpaceX** | Software Engineer Intern | Backend systems, observability |
 | **Stoke Space** | Software Engineer Intern | RBAC, ERP integrations, AI pipelines, AWS GovCloud |
 | **Shared Studios** | Software Engineer Intern | Voice interfaces, motion detection, telepresence |
 
